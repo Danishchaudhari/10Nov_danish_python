@@ -1,0 +1,12 @@
+https://github.com/Danishchaudhari/20Aug_danish_python.git
+
+
+
+
+echo "# 20Aug_danish_python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+
+git remote add origin https://github.com/Danishchaudhari/20Aug_danish_python.git
+git push -u origin main
